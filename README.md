@@ -23,3 +23,6 @@ between parietal and temporal regions. These results not only provided strong ev
 to support the view of neural plasticity on large-scale networks during middle childhood, 
 but also direct neuroimaging evidence for the transfer effects of cognitive training.
 
+## Undergraduate thesis
+### 低频振幅算法功能磁共振成像对意识障碍患者的研究
+Only the undergradaute thesis defense slides are available for now.  
