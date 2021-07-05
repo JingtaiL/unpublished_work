@@ -2,8 +2,7 @@
 A collection of previous research work that is locked in the drawer
 
 ## Master thesis
-### Does training on higher cognitive functions change patterns of brain
-connectivity at rest during middle childhood?
+### Does training on higher cognitive functions change patterns of brain connectivity at rest during middle childhood?
 
 **Abstract**: Cognitive training can improve performance on trained abilities, 
 and this effect can be also transferred to untrained capacities. 
